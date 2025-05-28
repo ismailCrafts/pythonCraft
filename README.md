@@ -102,7 +102,7 @@ This repository follows a structured and beginner-friendly path to mastering Pyt
   - Coding challenges for core concepts  
   - Small projects like calculators, todo apps  
 
-- 🔜 More advanced topics and projects as I progress...
+- 🔜 More advanced topics and projects as I progress... 
 
 ---
 
