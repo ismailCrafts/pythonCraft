@@ -1,1 +1,74 @@
+🛠 How to Set Up Your Python Development Environment (Beginner-Friendly)
+To start coding in Python, we need two things:
 
+Python (the programming language itself)
+
+A code editor (to write and manage our code)
+
+Let’s go through the setup step by step.
+
+✅ Step 1: Install Python
+Go to the official Python website:
+👉 https://www.python.org/downloads/
+
+Download the latest version of Python:
+
+Choose the right file for your operating system:
+
+For Windows: download the .exe file
+
+For macOS or Linux: download the appropriate file for your system
+
+Install Python:
+
+After the download is complete, go to your Downloads folder
+
+Double-click the Python installer (e.g., python-3.x.x.exe)
+
+Follow the on-screen instructions
+
+Important: Check the box that says “Add Python to PATH” before clicking "Install"
+
+Verify the installation:
+
+Open your Terminal (Command Prompt on Windows, Terminal on Mac/Linux)
+
+Type the following command and press Enter:
+
+bash
+Copy
+Edit
+python --version
+If Python is installed correctly, it will show the version number (e.g., Python 3.12.0)
+
+✅ Step 2: Install a Code Editor (Visual Studio Code)
+There are many code editors out there (e.g., Atom, PyCharm, Sublime Text), but we recommend using Visual Studio Code (VS Code) because it’s lightweight, beginner-friendly, and widely used in the industry.
+
+Download VS Code:
+👉 https://code.visualstudio.com/Download
+
+Install VS Code:
+
+Download the file that matches your OS (e.g., .exe for Windows)
+
+Go to your Downloads folder
+
+Double-click the installer and follow the instructions
+
+✅ Step 3: Set Up Python in VS Code
+To run Python code in VS Code, we need to install the Python extension.
+
+Open Visual Studio Code
+
+On the left sidebar, click the Extensions icon (or press Ctrl+Shift+X)
+
+In the search bar, type "Python"
+
+Click on the extension named Python (published by Microsoft)
+
+Click Install
+
+Once installed, VS Code will recognize Python files and let you run your code directly from the editor.
+
+🎉 You're All Set!
+You’ve now installed Python and VS Code, and connected them together. You’re ready to start writing your first Python program.
