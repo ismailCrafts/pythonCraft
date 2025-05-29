@@ -35,9 +35,7 @@ Open your Terminal (Command Prompt on Windows, Terminal on Mac/Linux)
 
 Type the following command and press Enter:
 
-bash
-Copy
-Edit
+
 python --version
 If Python is installed correctly, it will show the version number (e.g., Python 3.12.0)
 
