@@ -28,14 +28,16 @@ Whether you're a fellow learner, a recruiter reviewing my skills, or simply expl
 ## 💡 Learning Style
 
 ✨ How to Use given Google Colab
-📖 Read the explanation to understand the core concept or topic.
 
-💡 Check the code examples to see how the theory is applied in Python.
+  📖 Read the explanation to understand the core concept or topic.
 
-🧪 Practice by modifying or rewriting the code in your own environment (e.g., VS Code).
+  💡 Check the code examples to see how the theory is applied in Python.
+
+  🧪 Practice by modifying or rewriting the code in your own environment (e.g., VS Code).
 
 
 👨‍💻 Developer Workflow
+
 This is my personal learning and showcase notebook. Here's how I use it:
 
 I write clean explanations in Colab for quick learning and reference.
