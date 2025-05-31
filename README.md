@@ -25,6 +25,27 @@ Whether you're a fellow learner, a recruiter reviewing my skills, or simply expl
 
 ---
 
+## 💡 Learning Style
+
+✨ How to Use given Google Colab
+📖 Read the explanation to understand the core concept or topic.
+
+💡 Check the code examples to see how the theory is applied in Python.
+
+🧪 Practice by modifying or rewriting the code in your own environment (e.g., VS Code).
+
+
+👨‍💻 Developer Workflow
+This is my personal learning and showcase notebook. Here's how I use it:
+
+I write clean explanations in Colab for quick learning and reference.
+
+I regularly test and re-implement the same logic in VS Code to simulate real development environments.
+
+I use GitHub to track my learning progress and share it publicly.
+
+---
+
 ## 📂 Folder Structure
 python-practice/
 ├── 01_basics/                   # Syntax, variables, data types, operators, comments
@@ -106,4 +127,5 @@ This repository follows a structured and beginner-friendly path to mastering Pyt
 
 ---
 
-This roadmap builds a solid foundation and practical skills for Python backend development and professional growth.
+Note to Future Me:
+This roadmap is here to ground you in solid Python fundamentals and sharpen your practical coding skills—one step at a time.
